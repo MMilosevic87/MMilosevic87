@@ -5,9 +5,11 @@
 
 - 🛠️ I build WordPress plugins and work on Laravel apps
 
+- 🤖 AI enthusiast — I leverage LLMs and AI-powered tools to accelerate development, build intelligent integrations, and create AI-driven workflows
+
 - 🌍 Based in **Belgrade, Serbia**
 
-- 💬 Ask me about **WordPress, PHP, Laravel, JavaScript, Linux Server Administration**
+- 💬 Ask me about **WordPress, PHP, Laravel, JavaScript, AI-Assisted Development**
 
 - 👨‍💻 View my work and projects on [mmilosevic.com](https://mmilosevic.com)
 
@@ -31,6 +33,12 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**AI & Automation:**  
+![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00B4D8?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6B21A8?style=flat-square)
 
 **DevOps & Tools:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
