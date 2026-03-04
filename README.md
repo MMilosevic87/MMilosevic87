@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Milos Milosevic</h1>
-<h3 align="center">Senior WordPress Developer & Systems Integrator at Awesome Motive</h3>
+<h3 align="center">Senior WordPress Developer at Awesome Motive</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MMilosevic87&label=Profile%20views&color=0e75b6&style=plastic" alt="MMilosevic87" /> </p>
+- 🔭 I'm currently working as a Senior WordPress Developer at [Awesome Motive](https://awesomemotive.com/)
 
-- 🔭 I'm currently working as a Senior Developer at [Awesome Motive](https://awesomemotive.com/) (Thrive Themes)
-
-- 🛠️ I build WordPress plugins, browser extensions, API integrations, and server automation tools
+- 🛠️ I build WordPress plugins and work on Laravel apps
 
 - 🌍 Based in **Belgrade, Serbia**
 
